@@ -6,6 +6,8 @@
 
 In Cerebro, type `vpn` to see list of your VPN configurations and their statuses. Select configuration to connect or disconnect
 
+![](screenshot.png)
+
 ## Related
 
 - [Cerebro](http://github.com/KELiON/cerebro) – main repo for Cerebro app;
